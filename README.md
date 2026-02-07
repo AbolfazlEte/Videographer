@@ -15,7 +15,7 @@ Welcome to **MyShop**! This repository showcases a modern storefront template de
 
 ## 🖼️ Preview
 
-<img width="1877" height="914" alt="https://github.com/AbolfazlEte/Videographer/blob/main/git.png" />
+<img width="1877" height="914" src="https://github.com/AbolfazlEte/Videographer/blob/main/git.png" />
 
 **Check out the live version here:**
 
