@@ -1,0 +1,50 @@
+@font-face {
+    font-family: babas;
+    src: url(../fonts/BebasNeue-Regular.ttf);
+}
+
+*,
+*::after,
+*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    transition: .4s;
+}
+
+:root {
+    --black: rgb(2, 2, 2);
+    --favcolor: rgba(255, 126, 0, 1);
+}
+
+ul>li {
+    list-style-type: none;
+}
+
+* {
+    font-family: Heebo, Arial, Helvetica, sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+.button1 {
+    padding: 13px 30px;
+    border-radius: 50px;
+    background-color: white;
+    color: var(--black);
+    font-size: 13px;
+    transition: .3s;
+
+    &:hover {
+        background-color: rgb(38, 38, 38);
+        color: white;
+    }
+}
+
+svg{
+    width: 140px;
+    height: 80px;
+    position: absolute;
+}
