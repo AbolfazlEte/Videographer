@@ -1,6 +1,6 @@
 # 🎥 Videographer
 
-Welcome to **MyShop**! This repository showcases a modern storefront template developed using **Vanilla CSS** for clean styling.
+Welcome to **MyShop**! This repository showcases a Customizable Pre-built Videographer Styled Website developed using **Vanilla CSS** for clean styling.
 
 ---
 
